@@ -54,3 +54,7 @@ Business Understanding → Data Preparation → Data Modelling → DAX & KPI Dev
 - Row-Level Security
 - Refresh Testing
 - Reporting Governance
+
+## Executive Performance Dashboard
+
+![Executive Performance Dashboard](images/executive-dashboard.PNG)
