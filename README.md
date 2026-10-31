@@ -58,3 +58,7 @@ Business Understanding → Data Preparation → Data Modelling → DAX & KPI Dev
 ## Executive Performance Dashboard
 
 ![Executive Performance Dashboard](images/executive-dashboard.PNG)
+
+## Receivables & Profitability Detail
+
+![Receivables & Profitability Detail](images/receivables-profitability.PNG)
