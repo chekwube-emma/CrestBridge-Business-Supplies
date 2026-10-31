@@ -66,3 +66,41 @@ Business Understanding → Data Preparation → Data Modelling → DAX & KPI Dev
 ## Data Model
 
 ![CrestBridge Data Model](images/data-model.PNG)
+
+## Detailed Documentation
+
+For deeper project documentation, see:
+
+- [Project Overview & Data Preparation](documentation/project-overview.md)
+- [KPI Definitions](documentation/kpi-definitions.md)
+- [Business Insights](documentation/business-insights.md)
+- [Recommendations](documentation/recommendations.md)
+- [Deployment & Governance](documentation/deployment-governance.md)
+- [Selected DAX Measures](dax/key-measures.md)
+
+## Key Skills Demonstrated
+
+- Power BI
+- Power Query
+- DAX
+- Data Cleaning
+- Data Validation
+- Data Modelling
+- Star Schema Design
+- KPI Development
+- Business Analysis
+- Performance Analysis
+- Receivables Analysis
+- Profitability Analysis
+- Dashboard Development
+- Data Storytelling
+- Row-Level Security
+- Power BI Service
+- Refresh Testing
+- Reporting Governance
+
+## Project Status
+
+Completed portfolio project.
+
+This case study is based on a fictional company and simulated business data created for learning and portfolio development.
