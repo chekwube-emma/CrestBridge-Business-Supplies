@@ -62,3 +62,7 @@ Business Understanding → Data Preparation → Data Modelling → DAX & KPI Dev
 ## Receivables & Profitability Detail
 
 ![Receivables & Profitability Detail](images/receivables-profitability.PNG)
+
+## Data Model
+
+![CrestBridge Data Model](images/data-model.PNG)
